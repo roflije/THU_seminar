@@ -1,0 +1,264 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.6)  26 NOV 2021 12:16
+entering extended mode
+**"C:/Users/patry/OneDrive - thu.de/seminar/DA07 - Paper.tex"
+(C:/Users/patry/OneDrive - thu.de/seminar/DA07 - Paper.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Program Files\MiKTeX\tex/latex/superiors\superiors.sty
+Package: superiors 2019/08/18 - 1.06superiors (License LPPL) Michael Sharpe
+
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count190
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen139
+\pgfutil@tempdimb=\dimen140
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box50
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+)))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex
+\pgf@x=\dimen141
+\pgf@xa=\dimen142
+\pgf@xb=\dimen143
+\pgf@xc=\dimen144
+\pgf@y=\dimen145
+\pgf@ya=\dimen146
+\pgf@yb=\dimen147
+\pgf@yc=\dimen148
+\c@pgf@counta=\count191
+\c@pgf@countb=\count192
+\c@pgf@countc=\count193
+\c@pgf@countd=\count194
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen149
+\pgfmath@count=\count195
+\pgfmath@box=\box51
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count196
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen150
+\pgffor@skip=\dimen151
+\pgffor@stack=\toks25
+\pgffor@toks=\toks26
+))
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+\superiors@scale=\dimen152
+\superiors@raise=\dimen153
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box52
+)
+No file "DA07 - Paper".aux.
+\openout1 = `"DA07 - Paper.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+
+LaTeX Warning: Citation `haldane' on page 1 undefined on input line 10.
+
+
+Overfull \hbox (2.29874pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/12 In 1923, a British sci-en-tist John B.S. Hal-dane wrote an es-s
+ay called " Daedalus
+ []
+
+[1
+
+{C:/Users/patry/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+
+LaTeX Warning: Citation `progressRate' on page 2 undefined on input line 16.
+
+
+LaTeX Warning: Citation `haldane' on page 2 undefined on input line 20.
+
+
+LaTeX Warning: Citation `transhumanismEarlyThinking' on page 2 undefined on inp
+ut line 20.
+
+
+LaTeX Warning: Citation `transhumanismHistoryLighthall' on page 2 undefined on 
+input line 20.
+
+
+LaTeX Warning: Citation `transhumanismHistoryHuxley' on page 2 undefined on inp
+ut line 20.
+
+
+LaTeX Warning: Citation `transhumanistFAQ:1' on page 2 undefined on input line 
+22.
+
+
+LaTeX Warning: Citation `transTermDictionary' on page 2 undefined on input line
+ 23.
+
+
+LaTeX Warning: Citation `humanismTermWiki' on page 2 undefined on input line 23
+.
+
+[2]
+
+LaTeX Warning: Citation `humanBrainWiki' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `lackofoxygen' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `wikipediaStroke' on page 3 undefined on input line 31.
+
+
+
+LaTeX Warning: Citation `brainAging' on page 3 undefined on input line 31.
+
+[3]
+
+LaTeX Warning: Citation `sim:1' on page 4 undefined on input line 34.
+
+
+LaTeX Warning: Citation `sim:2' on page 4 undefined on input line 34.
+
+
+LaTeX Warning: Citation `sim:3' on page 4 undefined on input line 34.
+
+
+LaTeX Warning: Citation `wbe:2' on page 4 undefined on input line 37.
+
+
+LaTeX Warning: Citation `wbe:2' on page 4 undefined on input line 37.
+
+[4]
+
+LaTeX Warning: Citation `uploading:1' on page 5 undefined on input line 41.
+
+
+LaTeX Warning: Citation `uploading:1' on page 5 undefined on input line 41.
+
+
+LaTeX Warning: Citation `uploading:1' on page 5 undefined on input line 41.
+
+LaTeX Font Info:    Font shape `U/zsups/m/n' will be
+(Font)              scaled to size 12.0pt on input line 41.
+
+LaTeX Warning: Citation `uploading:1' on page 5 undefined on input line 41.
+
+
+LaTeX Warning: Citation `turing' on page 5 undefined on input line 47.
+
+
+LaTeX Warning: Citation `wikipediaAgi' on page 5 undefined on input line 50.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+[6]
+No file "DA07 - Paper".bbl.
+[7] (DA07 - Paper.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6134 strings out of 478907
+ 121225 string characters out of 2861749
+ 389758 words of memory out of 3000000
+ 23979 multiletter control sequences out of 15000+600000
+ 407484 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,6n,69p,1491b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+!pdfTeX error: pdflatex (file ntxsups-Regular-t1): Font ntxsups-Regular-t1 at 7
+20 not found
+ ==> Fatal error occurred, no output PDF file produced!
